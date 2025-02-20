@@ -1,5 +1,3 @@
-# Tech Assessment - Integration Engineer - IT Operations - DataStealth
-
 **Task 1: Network Debugging**
 
 Here’s a step-by-step guide to diagnose the issue:
