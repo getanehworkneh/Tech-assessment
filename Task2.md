@@ -1,4 +1,4 @@
-**Task2: Network Configuration - Subnet Calculation (**192.168.0.0/24)
+### Task2: Network Configuration - Subnet Calculation (192.168.0.0/24)
 
 ### ****1\. Usable IP Addresses in 192.168.0.0/24****
 
@@ -29,6 +29,6 @@
 
 **Benefits**:
 
-- - Improves network performance by reducing congestion.
+-  Improves network performance by reducing congestion.
     - Enhances security by isolating traffic.
     - Efficiently allocates IP addresses.
