@@ -6,7 +6,7 @@
 
 We can use tar to create a compressed archive of the logs directory:
 
-tar –czvf logs.tar.gz logs/
+tar –czvf logs logs.tar.gz
 
 - \-c: Create a new archive.
 - \-z: Compress using gzip.
