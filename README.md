@@ -57,4 +57,4 @@ The error `curl: (7) Failed to connect to remote_server.com port 443: No route t
 ### Thought Process
 - Start with basic connectivity checks (**ping, DNS resolution**).
 - Firewall rules and server status are common culprits.
-- Use tools like `telnet` to diagnose port-level issues.
+- Use tools like `telnet` to diagnose port level issues.
