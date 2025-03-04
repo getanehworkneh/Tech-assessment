@@ -29,6 +29,6 @@
 
 **Benefits**:
 
--  Improves network performance by reducing congestion.
+- - Improves network performance by reducing congestion.
     - Enhances security by isolating traffic.
     - Efficiently allocates IP addresses.
