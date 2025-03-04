@@ -5,7 +5,7 @@
 This repository provides a structured approach to solving the Tech Assessment for Integration Engineer. Each task is broken down into clear steps, with explanations of the underlying concepts and thought processes. 
 
 I have provided the answers in two different formats: 
-1) Each task's answer is stored in a separate markdown file.
+1) Each task answer is stored in a separate markdown file.
 2) A Word document is also attached, containing all the answers in one place.
 
 ## Task 1: Network Debugging
